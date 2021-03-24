@@ -1,2 +1,2 @@
 # cav-bep20
-CAV BEP20 Token contract 
+CoArt VR Token (CAV) BEP20 Token contract for Binance Smart Chain
