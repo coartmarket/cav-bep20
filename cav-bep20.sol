@@ -465,7 +465,7 @@ contract BEP20Token is Context, IBEP20, Ownable {
     string private _symbol;
     string private _name;
 
-    constructor() public {
+    constructor() {
         _name = "COART VR Token";
         _symbol = "CAV";
         _decimals = 18;
