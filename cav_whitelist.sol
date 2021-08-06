@@ -1,4 +1,4 @@
-import {Ownable, SafeMath, IBEP20} from "./CAV_Token.sol";
+import {Ownable, SafeMath, IBEP20} from "./cav-bep20.sol";
 
 contract Deployment is Ownable {
     
